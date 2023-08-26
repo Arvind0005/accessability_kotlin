@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">accessibility_service_overlay</string>
+    <string name="accessibility_service_name">accessibility_service_name</string>
+    <string name="accessibility_service_description">accessibility_service_description</string>
+</resources>
